@@ -43,7 +43,7 @@
 ---
 
 ## Section 4: Deployed and Presentation Information
-- **GitHub Repository URL:** [Provide your public GitHub repository URL here]
+- **GitHub Repository URL:** https://github.com/MayMon-T3807/pytest-testing-project
 - **Video Presentation Link:** [Provide an accessible link to your 5–7 minute video presentation]
 
 ---
