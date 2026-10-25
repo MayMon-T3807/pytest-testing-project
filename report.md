@@ -44,7 +44,7 @@
 
 ## Section 4: Deployed and Presentation Information
 - **GitHub Repository URL:** https://github.com/MayMon-T3807/pytest-testing-project
-- **Video Presentation Link:** [Provide an accessible link to your 5–7 minute video presentation]
+- **Video Presentation Link:** https://drive.google.com/file/d/1AafLiQvAnYobHUwDtP2Aoc9nJq-AXIzz/view?usp=sharing
 
 ---
 
